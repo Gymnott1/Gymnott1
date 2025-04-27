@@ -26,10 +26,17 @@ Feel free to reach out if you have any questions or would like to collaborate!
 
 ## Projects
 
+![image](d.png)
+
+
+![image](d3.png)
+
+![image](dd1.png)
+
 ### 1. **Learn to Backend**
 [![Learn to Backend](https://raw.githubusercontent.com/Gymnott1/learn_io_backend/main/preview.png)](https://github.com/Gymnott1/learn_io_backend)
 A full-stack AI web app built using ReactJS, Django, PostgreSQL, and Hugging Face API.
-![image](dd1.png)
+
 
 ---
 
