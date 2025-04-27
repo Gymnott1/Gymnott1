@@ -134,6 +134,17 @@ The backend system for the AIRES project.
 
 ---
 
+### 14. **CRYPTO-DOT**
+[![CRYPTO-DOT](cd1.png)](https://github.com/Gymnott1/AIRES-SYS-BACKEND)
+[![CRYPTO-DOT](cd2.png)](https://github.com/Gymnott1/AIRES-SYS-BACKEND)
+[![CRYPTO-DOT](cd3.png)](https://github.com/Gymnott1/AIRES-SYS-BACKEND)
+[![CRYPTO-DOT](cd4.png)](https://github.com/Gymnott1/AIRES-SYS-BACKEND)
+[![CRYPTO-DOT](cd5.png)](https://github.com/Gymnott1/AIRES-SYS-BACKEND)
+[![CRYPTO-DOT](cd6.png)](https://github.com/Gymnott1/AIRES-SYS-BACKEND)
+
+Tring to solve the problem of deepfake and image manipulation.
+
+---
 
 ---
 
