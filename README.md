@@ -142,7 +142,7 @@ The backend system for the AIRES project.
 [![CRYPTO-DOT](cd5.png)](https://github.com/Gymnott1/AIRES-SYS-BACKEND)
 [![CRYPTO-DOT](cd6.png)](https://github.com/Gymnott1/AIRES-SYS-BACKEND)
 
-Tring to solve the problem of deepfake and image manipulation.
+Concept to solve the problem of deepfake and image manipulation.
 
 ---
 
