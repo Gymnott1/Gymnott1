@@ -24,9 +24,9 @@ Feel free to reach out if you have any questions or would like to collaborate!
 
 ---
 
-##Contributions
+## Contributions
 
--[Western Region Research and Innovation Consortium (WRRIC) Workshop at Kisii University.](https://www.maseno.ac.ke/western-region-research-and-innovation-consortium-wrric-workshop-kisii-university)
+- [Western Region Research and Innovation Consortium (WRRIC) Workshop at Kisii University.](https://www.maseno.ac.ke/western-region-research-and-innovation-consortium-wrric-workshop-kisii-university)
 
 - [Maseno University Computing and Informatics Students Association (MUCISA) Hackathon 2025: Smart Campus Solutions at Maseno University](https://www.maseno.ac.ke/maseno-university-computing-and-informatics-students-association-mucisa-hackathon-2025-smart-campus)
 
