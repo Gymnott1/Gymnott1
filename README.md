@@ -1,7 +1,7 @@
 ﻿
 ---
 
-# My Project Portfolio
+# WABWIRE LINUS
 
 A curated collection of my work with visual previews. Click on any image to explore the project in detail.
 
