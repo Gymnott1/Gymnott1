@@ -30,6 +30,8 @@ Feel free to reach out if you have any questions or would like to collaborate!
 
 - [Maseno University Computing and Informatics Students Association (MUCISA) Hackathon 2025: Smart Campus Solutions at Maseno University](https://www.maseno.ac.ke/maseno-university-computing-and-informatics-students-association-mucisa-hackathon-2025-smart-campus)
 
+- [Enactus Maseno Chapter](https://enactusmasenochapter.africa/)
+
 
 
 ## Projects
