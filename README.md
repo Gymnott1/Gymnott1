@@ -32,6 +32,8 @@ Feel free to reach out if you have any questions or would like to collaborate!
 
 - [Enactus Maseno Chapter](https://enactusmasenochapter.africa/)
 
+- [Vibex-CLI command line tool to help prepare your code and documents for vibe coding](https://www.npmjs.com/package/vibex-cli)
+
 
 
 ## Projects
