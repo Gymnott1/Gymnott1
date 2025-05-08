@@ -34,6 +34,10 @@ Feel free to reach out if you have any questions or would like to collaborate!
 
 - [Vibex-CLI command line tool to help prepare your code and documents for vibe coding](https://www.npmjs.com/package/vibex-cli)
 
+- [House Hub Real Estate Web App](https://househub.co.ke/)
+
+- [House Hub Real Estate Web App](https://comradehostels.co.ke/)
+
 
 
 ## Projects
