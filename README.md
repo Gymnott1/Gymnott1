@@ -10,7 +10,7 @@ A curated collection of my work with visual previews. Click on any image to expl
 - **AI & Machine Learning**: Hugging Face API, TensorFlow, PyTorch, NLP techniques, model deployment.
 - **Full-Stack Development**: JavaScript (ES6+), Node.js, React, Next.js, Python, Django.
 - **Database & API Management**: PostgreSQL, REST APIs, AWS GraphQL.
-- **Testing & DevOps**: Mocha, CI/CD, AWS, Docker, Git, GitHub, Firefox Tools.
+- **Testing & DevOps**: Mocha, CI/CD, AWS, Docker, Git, GitHub, Firebase Tools.
 - **Systems Development**: C++ programming.
 - **Agile Methodologies**: Problem-solving, collaborative teamwork.
 
