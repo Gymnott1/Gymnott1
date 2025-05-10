@@ -55,7 +55,6 @@ Feel free to reach out if you have any questions or would like to collaborate!
 [![Learn to Backend](https://raw.githubusercontent.com/Gymnott1/learn_io_backend/main/preview.png)](https://github.com/Gymnott1/learn_io_backend)
 A full-stack AI web app built using ReactJS, Django, PostgreSQL, and Hugging Face API.
 
-
 ---
 
 ### 2. **AIRES System**
