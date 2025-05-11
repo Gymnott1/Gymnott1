@@ -41,6 +41,8 @@ Feel free to reach out if you have any questions or would like to collaborate!
 - [House Hub Real Estate Web App](https://comradehostels.co.ke/)
 
 
+- [https://comradehostels.co.ke/new_homepage/](https://comradehostels.co.ke/new_homepage/)
+
 
 ## Projects
 
