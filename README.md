@@ -187,6 +187,21 @@ The backend system for the AIRES project.
 Concept to solve the problem of deepfake and image manipulation.
 
 ---
+### 15. **FLUTTER MOBILE APPS**
+
+![](ec1.png)
+
+![](ec2.png)
+
+![](ec3.png)
+
+![](ec14.png)
+
+![](ec5.png)
+
+![](ec6.png)
+
+
 
 ---
 
