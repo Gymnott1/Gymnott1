@@ -32,10 +32,12 @@ A curated collection of my work with visual previews. Click on any image to expl
 
 - **AI & Machine Learning**: Hugging Face API, TensorFlow, PyTorch, NLP techniques, model deployment.
 - **Full-Stack Development**: JavaScript (ES6+), Node.js, React, Next.js, Python, Django.
+- **Cross Platform Apps**: Browser, Android, Apple, Tv Apps, Desktop Apps, Smart Watch Apps...
 - **Database & API Management**: PostgreSQL, REST APIs, AWS GraphQL.
 - **Testing & DevOps**: Mocha, CI/CD, AWS, Docker, Git, GitHub, Firebase Tools.
 - **Systems Development**: C++ programming.
 - **Agile Methodologies**: Problem-solving, collaborative teamwork.
+- 
 
 ## Contact
 
@@ -201,7 +203,20 @@ Concept to solve the problem of deepfake and image manipulation.
 
 ![](ec6.png)
 
+### 16. **Tv Apps Development In react native, java, kotlin**
 
+![](sstv1.png)
+
+![](sstv2.png)
+
+![](sstv3.png)
+
+![](sstv4.png)
+
+![](tv1.jpeg)
+
+![](tv2.jpeg)
+![](tv3.jpeg)
 
 ---
 
