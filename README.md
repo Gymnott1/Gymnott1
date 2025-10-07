@@ -68,7 +68,7 @@ Feel free to reach out if you have any questions or would like to collaborate!
 
 - [https://comradehostels.co.ke/new_homepage/](https://comradehostels.co.ke/new_homepage/)
 
-- ![Smart tab in rust](pkg:cargo/smart-tab@0.1.1)
+- [![Smart tab in Rust Crates](pkg:cargo/smart-tab@0.1.1)](pkg:cargo/smart-tab@0.1.1)
 
 
 ## Projects
@@ -225,5 +225,6 @@ Concept to solve the problem of deepfake and image manipulation.
 Feel free to reach out if you have any questions or would like to collaborate!
 
 ---
+
 
 
